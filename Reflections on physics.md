@@ -44,3 +44,6 @@
 
 对了，第一步最重要的是厘清概念，把参考系、运
 动、力等基本概念讨论清楚才能开始讨论其他的。
+
+所以总结出下图所示的关系：
+![image]https://github.com/liuhahapku/physics-resources/blob/master/constitution_of_physics.bmp
