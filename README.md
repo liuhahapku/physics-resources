@@ -19,3 +19,9 @@ Construction of Map of Human Knowledge
 记录了刘哈哈的关于物理学组成部分及其相互关系的一些思考
 
 在 Reflections on physics.md 中
+
+2019/1/3
+
+记录了刘哈哈关于知识图谱共建计划的目标、发展方向的一些思考
+
+在 Slogan.md 中
